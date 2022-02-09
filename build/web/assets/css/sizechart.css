@@ -1,0 +1,22 @@
+.sizeChart__container {
+  position: relative;
+  margin-bottom: 100px;
+  margin-top: 60px;
+  clear: both;
+  height: 800px;
+}
+.sizeChart__content {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.page-title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.content-page {
+  /* margin-bottom: 80px; */
+}
+.content-page p {
+  padding: 10px;
+}
